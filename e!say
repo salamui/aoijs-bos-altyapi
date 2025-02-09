@@ -1,0 +1,11 @@
+module.exports = {
+  name: "say",
+  code: `
+$color[1;66FF00]
+$description[1;
+\`•\` Sunucuda Toplam \`$membersCount\` Üye Bulunmakta!
+\`•\` Sunucuda \`$serverBoostCount\` Takviye Bulunmakta!
+\`•\` Sunucu \`$serverBoostLevel\` Takviye Seviyesinde!
+\`•\` Ses Kanallarında \`$voiceMembersCount\` Üye Bulunmakta!]
+`
+} 
